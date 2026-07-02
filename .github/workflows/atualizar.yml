@@ -3,6 +3,9 @@ name: Atualizar Federal
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "*/30 * * * *"
+
 jobs:
   atualizar:
     runs-on: ubuntu-latest
