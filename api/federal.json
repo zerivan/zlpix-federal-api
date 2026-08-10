@@ -1,54 +1,46 @@
 {
   "acumulado": false,
-  "dataApuracao": "05/08/2026",
+  "dataApuracao": "09/08/2026",
   "dataProximoConcurso": "",
   "dezenasSorteadasOrdemSorteio": [
-    "056952",
-    "028922",
-    "069298",
-    "016805",
-    "052721"
+    "016821",
+    "077694",
+    "067531",
+    "040030",
+    "043074"
   ],
   "exibirDetalhamentoPorCidade": false,
   "id": null,
   "indicadorConcursoEspecial": 1,
   "listaDezenas": [
-    "056952",
-    "028922",
-    "069298",
-    "016805",
-    "052721"
+    "016821",
+    "077694",
+    "067531",
+    "040030",
+    "043074"
   ],
   "listaDezenasSegundoSorteio": null,
   "listaMunicipioUFGanhadores": [
     {
       "ganhadores": 0,
-      "municipio": "FAGUNDES VARELA",
-      "nomeFatansiaUL": "LOTERICA DA SORTE",
-      "posicao": 4,
+      "municipio": "PAROBE",
+      "nomeFatansiaUL": "LOTERICA CHANCE EXTRA LTDA",
+      "posicao": 1,
       "serie": "A",
       "uf": "RS"
     },
     {
       "ganhadores": 0,
-      "municipio": "NOVA ODESSA",
-      "nomeFatansiaUL": "BALDIM LOTERIAS",
-      "posicao": 1,
+      "municipio": "FRANCA",
+      "nomeFatansiaUL": "LOTERICA DOM PEDRO",
+      "posicao": 5,
       "serie": "A",
       "uf": "SP"
     },
     {
       "ganhadores": 0,
-      "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "LOTERICA COMSORTE LTDA",
-      "posicao": 2,
-      "serie": "A",
-      "uf": "SP"
-    },
-    {
-      "ganhadores": 0,
-      "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "LOTERICA CONQUISTA",
+      "municipio": "LARANJAL PAULISTA",
+      "nomeFatansiaUL": "LOTERICA SAO JOAO",
       "posicao": 3,
       "serie": "A",
       "uf": "SP"
@@ -56,8 +48,16 @@
     {
       "ganhadores": 0,
       "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "SERTANEJA LOTERICA LTDA",
-      "posicao": 5,
+      "nomeFatansiaUL": "A FORTUNA LOTERIAS LTDA",
+      "posicao": 2,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "AKIDAKINA LOTERIAS LTDA",
+      "posicao": 4,
       "serie": "A",
       "uf": "SP"
     }
@@ -91,17 +91,17 @@
       "descricaoFaixa": "5 acertos",
       "faixa": 5,
       "numeroDeGanhadores": 1,
-      "valorPremio": 20363
+      "valorPremio": 20503
     }
   ],
   "listaResultadoEquipeEsportiva": null,
   "localSorteio": "ESPAÇO DA SORTE",
   "nomeMunicipioUFSorteio": "SAO PAULO, SP",
   "nomeTimeCoracaoMesSorte": null,
-  "numero": 6089,
-  "numeroConcursoAnterior": 6088,
+  "numero": 6090,
+  "numeroConcursoAnterior": 6089,
   "numeroConcursoFinal_0_5": 0,
-  "numeroConcursoProximo": 6090,
+  "numeroConcursoProximo": 6091,
   "numeroJogo": 10,
   "observacao": null,
   "premiacaoContingencia": null,
