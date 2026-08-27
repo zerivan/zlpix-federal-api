@@ -1,46 +1,38 @@
 {
   "acumulado": false,
-  "dataApuracao": "23/08/2026",
+  "dataApuracao": "26/08/2026",
   "dataProximoConcurso": "",
   "dezenasSorteadasOrdemSorteio": [
-    "013000",
-    "009559",
-    "082213",
-    "091203",
-    "087095"
+    "004574",
+    "004929",
+    "059657",
+    "030781",
+    "053798"
   ],
   "exibirDetalhamentoPorCidade": false,
   "id": null,
   "indicadorConcursoEspecial": 1,
   "listaDezenas": [
-    "013000",
-    "009559",
-    "082213",
-    "091203",
-    "087095"
+    "004574",
+    "004929",
+    "059657",
+    "030781",
+    "053798"
   ],
   "listaDezenasSegundoSorteio": null,
   "listaMunicipioUFGanhadores": [
     {
       "ganhadores": 0,
-      "municipio": "RIO DAS PEDRAS",
-      "nomeFatansiaUL": "LOTERICA RIO PEDRENSE",
+      "municipio": "ITAPERUNA",
+      "nomeFatansiaUL": "LOTERICA ITAPERUNA LTDA",
       "posicao": 4,
       "serie": "A",
-      "uf": "SP"
+      "uf": "RJ"
     },
     {
       "ganhadores": 0,
-      "municipio": "SAO BERNARDO DO CAMPO",
-      "nomeFatansiaUL": "LOTERICA AREA VERDE",
-      "posicao": 5,
-      "serie": "A",
-      "uf": "SP"
-    },
-    {
-      "ganhadores": 0,
-      "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "LOTCA PONTO QUENTE",
+      "municipio": "CATANDUVA",
+      "nomeFatansiaUL": "LOTERICA CATANDUVA",
       "posicao": 1,
       "serie": "A",
       "uf": "SP"
@@ -48,7 +40,7 @@
     {
       "ganhadores": 0,
       "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "R C T",
+      "nomeFatansiaUL": "LOTERICA TITO LTDA",
       "posicao": 2,
       "serie": "A",
       "uf": "SP"
@@ -56,7 +48,15 @@
     {
       "ganhadores": 0,
       "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "WISNTON E CHESLON CASA LOTERICA",
+      "nomeFatansiaUL": "ALDRIM LOTERIAS LTDA",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SOROCABA",
+      "nomeFatansiaUL": "SITE LUCK LOTERIAS",
       "posicao": 3,
       "serie": "A",
       "uf": "SP"
@@ -91,17 +91,17 @@
       "descricaoFaixa": "5 acertos",
       "faixa": 5,
       "numeroDeGanhadores": 1,
-      "valorPremio": 20503
+      "valorPremio": 20363
     }
   ],
   "listaResultadoEquipeEsportiva": null,
-  "localSorteio": "ESPAÇO DA SORTE",
+  "localSorteio": "Espaço da Sorte",
   "nomeMunicipioUFSorteio": "SAO PAULO, SP",
   "nomeTimeCoracaoMesSorte": null,
-  "numero": 6094,
-  "numeroConcursoAnterior": 6093,
+  "numero": 6095,
+  "numeroConcursoAnterior": 6094,
   "numeroConcursoFinal_0_5": 0,
-  "numeroConcursoProximo": 6095,
+  "numeroConcursoProximo": 6096,
   "numeroJogo": 10,
   "observacao": null,
   "premiacaoContingencia": null,
