@@ -1,54 +1,38 @@
 {
   "acumulado": false,
-  "dataApuracao": "09/09/2026",
+  "dataApuracao": "13/09/2026",
   "dataProximoConcurso": "",
   "dezenasSorteadasOrdemSorteio": [
-    "064423",
-    "083481",
-    "037422",
-    "027068",
-    "057566"
+    "070028",
+    "023895",
+    "045292",
+    "009375",
+    "055594"
   ],
   "exibirDetalhamentoPorCidade": false,
   "id": null,
   "indicadorConcursoEspecial": 1,
   "listaDezenas": [
-    "064423",
-    "083481",
-    "037422",
-    "027068",
-    "057566"
+    "070028",
+    "023895",
+    "045292",
+    "009375",
+    "055594"
   ],
   "listaDezenasSegundoSorteio": null,
   "listaMunicipioUFGanhadores": [
     {
       "ganhadores": 0,
-      "municipio": "ITU",
-      "nomeFatansiaUL": "LOTERICA ITUANA",
-      "posicao": 1,
-      "serie": "A",
-      "uf": "SP"
-    },
-    {
-      "ganhadores": 0,
-      "municipio": "PIRACICABA",
-      "nomeFatansiaUL": "LOTERICA PREDILETA DE PIRACICABA LTDA",
+      "municipio": "GUARATINGUETA",
+      "nomeFatansiaUL": "LOTERICA SOL  DA SORTE",
       "posicao": 4,
       "serie": "A",
       "uf": "SP"
     },
     {
       "ganhadores": 0,
-      "municipio": "PIRACICABA",
-      "nomeFatansiaUL": "PRUDENTE LOTERIAS",
-      "posicao": 5,
-      "serie": "A",
-      "uf": "SP"
-    },
-    {
-      "ganhadores": 0,
-      "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "CLIQUE DA SORTE LOTERIAS LTDA",
+      "municipio": "ITAPEVI",
+      "nomeFatansiaUL": "LOTERICA SANTA RITA DA SORTE",
       "posicao": 2,
       "serie": "A",
       "uf": "SP"
@@ -56,8 +40,24 @@
     {
       "ganhadores": 0,
       "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "IBELLI LOTERIAS",
+      "nomeFatansiaUL": "BILHETE NAO COMERCIALIZADO",
+      "posicao": 1,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "LOTERICA ARNATTO",
       "posicao": 3,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "GRATIDAO LOTERIAS LTDA",
+      "posicao": 5,
       "serie": "A",
       "uf": "SP"
     }
@@ -91,17 +91,17 @@
       "descricaoFaixa": "5 acertos",
       "faixa": 5,
       "numeroDeGanhadores": 1,
-      "valorPremio": 20363
+      "valorPremio": 20503
     }
   ],
   "listaResultadoEquipeEsportiva": null,
-  "localSorteio": "Espaço da Sorte",
+  "localSorteio": "ESPAÇO DA SORTE",
   "nomeMunicipioUFSorteio": "SAO PAULO, SP",
   "nomeTimeCoracaoMesSorte": null,
-  "numero": 6099,
-  "numeroConcursoAnterior": 6098,
+  "numero": 6100,
+  "numeroConcursoAnterior": 6099,
   "numeroConcursoFinal_0_5": 0,
-  "numeroConcursoProximo": 6100,
+  "numeroConcursoProximo": 6101,
   "numeroJogo": 10,
   "observacao": null,
   "premiacaoContingencia": null,
