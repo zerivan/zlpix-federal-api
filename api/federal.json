@@ -1,63 +1,63 @@
 {
   "acumulado": false,
-  "dataApuracao": "30/09/2026",
+  "dataApuracao": "03/10/2026",
   "dataProximoConcurso": "",
   "dezenasSorteadasOrdemSorteio": [
-    "041092",
-    "023453",
-    "003271",
-    "018708",
-    "066303"
+    "017469",
+    "081210",
+    "007767",
+    "041317",
+    "079412"
   ],
   "exibirDetalhamentoPorCidade": false,
   "id": null,
   "indicadorConcursoEspecial": 1,
   "listaDezenas": [
-    "041092",
-    "023453",
-    "003271",
-    "018708",
-    "066303"
+    "017469",
+    "081210",
+    "007767",
+    "041317",
+    "079412"
   ],
   "listaDezenasSegundoSorteio": null,
   "listaMunicipioUFGanhadores": [
     {
       "ganhadores": 0,
-      "municipio": "CAMPO GRANDE",
-      "nomeFatansiaUL": "LOTERICA MAPA DA MINA",
+      "municipio": "ITAJUBA",
+      "nomeFatansiaUL": "CENTRAL LOTERICA",
       "posicao": 5,
       "serie": "A",
-      "uf": "MS"
+      "uf": "MG"
     },
     {
       "ganhadores": 0,
-      "municipio": "PETROPOLIS",
-      "nomeFatansiaUL": "TALISMA PETROPOLIS/RJ",
+      "municipio": "FLORIANOPOLIS",
+      "nomeFatansiaUL": "ENCONTRO DA SORTE LOTERIAS",
       "posicao": 2,
       "serie": "A",
-      "uf": "RJ"
+      "uf": "SC"
     },
     {
       "ganhadores": 0,
-      "municipio": "SAO JOSE",
-      "nomeFatansiaUL": "PALPITAO LOTERIAS",
+      "municipio": "INDAIAL",
+      "nomeFatansiaUL": "NINHO DA SORTE",
       "posicao": 1,
       "serie": "A",
       "uf": "SC"
     },
     {
       "ganhadores": 0,
-      "municipio": "GUARULHOS",
-      "nomeFatansiaUL": "LOTERIA ESPORTIVA O PONTO LTDA",
-      "posicao": 4,
+      "municipio": "MARILIA",
+      "nomeFatansiaUL": "LOTERICA NOVE DE JULHO",
+      "posicao": 3,
       "serie": "A",
       "uf": "SP"
     },
     {
       "ganhadores": 0,
       "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "",
-      "posicao": 3,
+      "nomeFatansiaUL": "JOVINO RUBIM DE TOLEDO",
+      "posicao": 4,
       "serie": "A",
       "uf": "SP"
     }
@@ -91,17 +91,17 @@
       "descricaoFaixa": "5 acertos",
       "faixa": 5,
       "numeroDeGanhadores": 1,
-      "valorPremio": 20363
+      "valorPremio": 20503
     }
   ],
   "listaResultadoEquipeEsportiva": null,
   "localSorteio": "ESPAÇO DA SORTE",
   "nomeMunicipioUFSorteio": "SAO PAULO, SP",
   "nomeTimeCoracaoMesSorte": null,
-  "numero": 6105,
-  "numeroConcursoAnterior": 6104,
+  "numero": 6106,
+  "numeroConcursoAnterior": 6105,
   "numeroConcursoFinal_0_5": 0,
-  "numeroConcursoProximo": 6106,
+  "numeroConcursoProximo": 6107,
   "numeroJogo": 10,
   "observacao": null,
   "premiacaoContingencia": null,
