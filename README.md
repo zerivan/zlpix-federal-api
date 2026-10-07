@@ -86,11 +86,22 @@ A API pode ser consumida diretamente por aplicações web, backends, scripts e o
 
 Não é necessária chave de API para consultar o endpoint público deste projeto.
 
-## Observação importante
+## Descoberta sobre as modalidades
 
-O conteúdo disponibilizado aqui é uma cópia pública dos dados obtidos da fonte da Caixa, mantida para facilitar o acesso de aplicações e desenvolvedores.
+A consulta à fonte da Caixa utiliza o nome da modalidade no endereço da API. Assim, para consultar outra modalidade na origem, o identificador do jogo pode ser alterado conforme a modalidade desejada.
 
-A estrutura atual atende à modalidade **Federal**. Novas modalidades, como Mega-Sena, Quina ou Lotofácil, somente serão disponibilizadas quando seus respectivos mecanismos de consulta e validação forem implementados.
+Exemplo do conceito:
+
+```
+federal   → Federal
+megasena  → Mega-Sena
+quina     → Quina
+lotofacil → Lotofácil
+```
+
+No ZLPix Federal API, cada modalidade deverá ser publicada e validada separadamente. A modalidade **Federal** é a primeira implementação disponível.
+
+Essa separação permite ampliar o projeto para outros resultados da Caixa sem alterar o mecanismo de distribuição já criado.
 
 Para informações oficiais, regras, resultados e serviços da Caixa, consulte diretamente os canais oficiais da Caixa Econômica Federal.
 
