@@ -1,63 +1,63 @@
 {
   "acumulado": false,
-  "dataApuracao": "03/10/2026",
+  "dataApuracao": "07/10/2026",
   "dataProximoConcurso": "",
   "dezenasSorteadasOrdemSorteio": [
-    "017469",
-    "081210",
-    "007767",
-    "041317",
-    "079412"
+    "042050",
+    "072560",
+    "053643",
+    "024384",
+    "053648"
   ],
   "exibirDetalhamentoPorCidade": false,
   "id": null,
   "indicadorConcursoEspecial": 1,
   "listaDezenas": [
-    "017469",
-    "081210",
-    "007767",
-    "041317",
-    "079412"
+    "042050",
+    "072560",
+    "053643",
+    "024384",
+    "053648"
   ],
   "listaDezenasSegundoSorteio": null,
   "listaMunicipioUFGanhadores": [
     {
       "ganhadores": 0,
-      "municipio": "ITAJUBA",
-      "nomeFatansiaUL": "CENTRAL LOTERICA",
-      "posicao": 5,
-      "serie": "A",
-      "uf": "MG"
-    },
-    {
-      "ganhadores": 0,
-      "municipio": "FLORIANOPOLIS",
-      "nomeFatansiaUL": "ENCONTRO DA SORTE LOTERIAS",
-      "posicao": 2,
-      "serie": "A",
-      "uf": "SC"
-    },
-    {
-      "ganhadores": 0,
-      "municipio": "INDAIAL",
-      "nomeFatansiaUL": "NINHO DA SORTE",
-      "posicao": 1,
-      "serie": "A",
-      "uf": "SC"
-    },
-    {
-      "ganhadores": 0,
-      "municipio": "MARILIA",
-      "nomeFatansiaUL": "LOTERICA NOVE DE JULHO",
+      "municipio": "CURITIBA",
+      "nomeFatansiaUL": "RM LOTERIAS LTDA",
       "posicao": 3,
+      "serie": "A",
+      "uf": "PR"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "CRICIUMA",
+      "nomeFatansiaUL": "LOTERICA A MILIONARIA",
+      "posicao": 4,
+      "serie": "A",
+      "uf": "SC"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO PAULO",
+      "nomeFatansiaUL": "CARNEIRO GANHADOR",
+      "posicao": 2,
       "serie": "A",
       "uf": "SP"
     },
     {
       "ganhadores": 0,
       "municipio": "SAO PAULO",
-      "nomeFatansiaUL": "JOVINO RUBIM DE TOLEDO",
-      "posicao": 4,
+      "nomeFatansiaUL": "ESPACO DA SORTE",
+      "posicao": 5,
+      "serie": "A",
+      "uf": "SP"
+    },
+    {
+      "ganhadores": 0,
+      "municipio": "SAO VICENTE",
+      "nomeFatansiaUL": "LOTERIA MAR AZUL",
+      "posicao": 1,
       "serie": "A",
       "uf": "SP"
     }
@@ -91,17 +91,17 @@
       "descricaoFaixa": "5 acertos",
       "faixa": 5,
       "numeroDeGanhadores": 1,
-      "valorPremio": 20503
+      "valorPremio": 20363
     }
   ],
   "listaResultadoEquipeEsportiva": null,
   "localSorteio": "ESPAÇO DA SORTE",
   "nomeMunicipioUFSorteio": "SAO PAULO, SP",
   "nomeTimeCoracaoMesSorte": null,
-  "numero": 6106,
-  "numeroConcursoAnterior": 6105,
+  "numero": 6107,
+  "numeroConcursoAnterior": 6106,
   "numeroConcursoFinal_0_5": 0,
-  "numeroConcursoProximo": 6107,
+  "numeroConcursoProximo": 6108,
   "numeroJogo": 10,
   "observacao": null,
   "premiacaoContingencia": null,
