@@ -20,6 +20,17 @@ async function atualizarFederal() {
 
     const json = await response.json();
 
+    if (
+      !json ||
+      typeof json !== "object" ||
+      !json.numero ||
+      !json.dataApuracao ||
+      !Array.isArray(json.listaDezenas) ||
+      json.listaDezenas.length < 5
+    ) {
+      throw new Error("Resposta inválida ou incompleta da fonte da Caixa.");
+    }
+
     fs.writeFileSync(
       "./api/federal.json",
       JSON.stringify(json, null, 2),
